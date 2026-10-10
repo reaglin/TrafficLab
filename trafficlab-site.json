@@ -1,0 +1,15 @@
+{
+  "generator": "TrafficLabPlus",
+  "version": "0.1.0",
+  "published": "2026-10-10",
+  "studies": [
+    {
+      "slug": "east-new-york-avenue-traffic-lab",
+      "title": "East New York Avenue Traffic Lab"
+    },
+    {
+      "slug": "granada-boulevard-traffic-lab",
+      "title": "Granada Boulevard Traffic Lab"
+    }
+  ]
+}
